@@ -98,6 +98,14 @@
         opacity: 1;
         transform: translateY(0);
     }
+    .footer p{
+        font-size: 14px;
+        text-align: center;
+    }
+    .fade-blog {
+        transform: translateY(20px);
+        transition: all 0.7s ease-in, transform 0.7s ease-in;
+      }
 }
 
 @media only screen and (max-width: 767px) {
