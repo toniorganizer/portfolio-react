@@ -46,7 +46,7 @@ const Blog = () => {
         </div>
       </div>
     </Container>
-    <div className="text-center footer col-lg-12 col-md-6 col-ms-12 mt-3 fw-light mt-5">
+    <div className="footer col-lg-12 col-md-6 col-ms-12 mt-3 fw-light mt-5">
         <p>Copyright © Tri Yuli Pahtoni, 2024. Made with ♥ in Yogyakarta</p>
     </div>
     </div>
