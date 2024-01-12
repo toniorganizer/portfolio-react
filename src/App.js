@@ -5,7 +5,7 @@ import Blog from "./component/Blog";
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename="/portfolio-react">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/blog" element={<Blog />} />
